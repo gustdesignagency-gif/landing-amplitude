@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "title": "Reliz — The demand for detail, the emotion of the result",
+    "description": "Reliz creates complete experiences around hospitality, events and gastronomy. One point of contact, from idea to event."
+  },
+  "nav": {
+    "home": "Home",
+    "experiences": "Experiences",
+    "contact": "Contact",
+    "skipToContent": "Skip to content"
+  },
+  "home": {
+    "hero": {
+      "badge": "premium catering",
+      "tagline": "The demand for detail, the emotion of the result.",
+      "subtitle": "Hospitality, events & client experience",
+      "ctaExperiences": "Discover our experiences",
+      "ctaContact": "Contact us",
+      "socialProof": "+500 events delivered"
+    },
+    "vision": {
+      "title": "An identity, not just a services website",
+      "text": "The goal is not to create a simple services website, but a true identity around hospitality, events and client experience. Reliz conveys something elegant, modern, fluid, human, immersive — premium without being cold."
+    },
+    "qualities": {
+      "title": "Our world",
+      "items": ["Elegant", "Modern", "Fluid", "Human", "Immersive", "Premium without being cold"]
+    },
+    "promise": {
+      "title": "From idea to event",
+      "text": "A client can arrive with an idea… and leave with a fully created and organised event. One point of contact capable of coordinating everything.",
+      "link": "See all our experiences"
+    },
+    "founder": {
+      "title": "The founder",
+      "imageAlt": "Elize Rapisarda, founder of Reliz",
+      "name": "Elize Rapisarda",
+      "intro": "Reliz was created by Elize Rapisarda. I come from the world of events, hospitality and HORECA.",
+      "experience": "I developed my experience between Luxembourg, the Greater Region and Latin America, primarily in fine dining service, team management, event coordination, bars & cocktails, gastronomy, and venue management.",
+      "insight": "Today, many events lack fluidity, coherence and above all a human experience.",
+      "mission": "The idea behind Reliz is to bring together service, organisation, aesthetics, gastronomy and innovation in a single experience. I want Reliz to be perceived as a brand capable of transforming an event into something truly alive, elegant and memorable."
+    },
+    "goal": {
+      "title": "Our ambition",
+      "imageAlt": "Reliz event experience — hospitality and emotion",
+      "text": "To quickly understand that Reliz is not just an event provider, but a brand capable of creating complete experiences around service, hospitality, gastronomy and emotion."
+    },
+    "partners": {
+      "title": "Our collaborations",
+      "subtitle": "Credibility, field experience and premium positioning."
+    }
+  },
+  "experiences": {
+    "title": "Our experiences",
+    "subtitle": "Reliz — a complete experience",
+    "reliz": {
+      "title": "Reliz — A complete experience",
+      "intro": "The most important point in Reliz's positioning is the ability to manage an event in its entirety. A client can arrive with an idea… and leave with a fully created and organised event.",
+      "interlocutor": "One point of contact capable of coordinating everything.",
+      "scopeTitle": "Reliz can encompass",
+      "scope": [
+        "All catering",
+        "Beverages",
+        "Cocktails",
+        "Cocktail menus",
+        "Buffets",
+        "Sit-down meals",
+        "Walking dinners",
+        "Front-of-house staff",
+        "Kitchen staff",
+        "Decoration",
+        "Flowers",
+        "Overall ambience",
+        "Full operational coordination of the event"
+      ]
+    },
+    "innovation": {
+      "title": "Digital innovation",
+      "imageAlt": "Reliz digital solution — QR code and event experience",
+      "intro": "With a team of developers, I am currently developing a digital solution designed to enhance the client experience during events.",
+      "principle": "Each table or zone will have a QR code that guests can scan in multiple languages.",
+      "featuresTitle": "This will allow them to",
+      "features": [
+        "Order drinks",
+        "Request accessories",
+        "Call a server",
+        "Request glasses, napkins or cutlery",
+        "Send certain requests directly to the teams"
+      ],
+      "goalsTitle": "The goal is",
+      "goals": [
+        "To improve service fluidity",
+        "To facilitate communication with an international clientele",
+        "To support teams when language becomes a barrier",
+        "To deliver a more modern, high-end experience"
+      ],
+      "note": "This is something I am beginning to see emerge in certain concepts and that I truly wish to develop within the Reliz event universe."
+    },
+    "brooklyn": {
+      "title": "Brooklyn",
+      "subtitle": "International street food",
+      "intro": "Brooklyn is the international street food branch developed by Reliz. The concept is presented broadly and modernly, around culinary discovery, sharing and world cuisine.",
+      "representsTitle": "Brooklyn represents",
+      "represents": [
+        "International street food",
+        "World inspirations",
+        "Varied cuisines",
+        "Modern food concepts",
+        "More convivial and lively experiences"
+      ],
+      "universeTitle": "The universe should be",
+      "universe": ["Modern", "Dynamic", "International", "Lifestyle", "Quality-driven and consistent with Reliz"]
+    },
+    "collection": {
+      "title": "Wedding cars",
+      "intro": "Reliz also wishes to offer a classic car service for weddings. The idea is not traditional car rental, but rather adding an aesthetic and emotional experience to events.",
+      "forTitle": "A premium complementary service for",
+      "for": [
+        "The arrival of the newlyweds",
+        "Photo shoots",
+        "Staging",
+        "The overall high-end wedding universe"
+      ]
+    },
+    "families": {
+      "title": "Meals for busy families",
+      "intro": "Reliz will also develop a homemade meal offering for families who lack time in their daily lives.",
+      "conceptTitle": "The concept is to offer",
+      "concept": [
+        "Quality meals",
+        "Generous portions",
+        "Practical",
+        "Designed to simplify family life without compromising culinary quality"
+      ],
+      "modelTitle": "The current planned model",
+      "model": "3 menus per week, for 3 people, at a price of €130.",
+      "imageTitle": "Desired image",
+      "image": ["Human", "Warm", "Practical", "Premium"]
+    },
+    "partners": {
+      "title": "Our collaborations",
+      "text": "It is important to highlight my collaborations with Zandbergen Event Catering, Festin and other premium partners. This brings credibility, field experience and strengthens the brand's premium positioning."
+    },
+    "collaborations": {
+      "title": "Our collaborations",
+      "intro": "Reliz relies on a network of selected partners and collaborations to strengthen gastronomic excellence, hospitality and the event experience.",
+      "viewAll": "See all collaborations",
+      "cocktail": {
+        "title": "Cocktail Experience by RELIZ",
+        "description": "Reliz offers a professional bar and cocktail service for events: professional bartenders, mobile bars, signature cocktails, classic cocktails, wedding bars, garden parties, corporate afterworks, private parties and premium bar service.",
+        "imageAlt": "Cocktail Experience by RELIZ — professional bartender"
+      },
+      "essence": {
+        "title": "Essence Culinaire by Mikel Quesada",
+        "subtitle": "Training & Consulting",
+        "description": "Training, gastronomic consulting, operational improvement, culinary standardisation and creation of modern concepts for hospitality, catering and events.",
+        "imageAlt": "Essence Culinaire by Mikel Quesada — event table setting"
+      },
+      "festin": {
+        "title": "Festin Traiteur Belgium",
+        "description": "Belgian gastronomic partner specialising in premium catering for weddings, banquets, BBQ concepts, private events, receptions and personalised gastronomic celebrations.",
+        "imageAlt": "Festin Traiteur Belgium — gastronomic reception",
+        "email": "info@festintraiteur.be",
+        "phone": "0032 (6) 323 95 65"
+      },
+      "zandbergen": {
+        "title": "Zandbergen Eventcatering Luxembourg",
+        "description": "Professional collaboration with Zandbergen Eventcatering, a recognised Luxembourg company for its food concepts, large events, live cooking, weddings, corporate events and premium catering.",
+        "imageAlt": "Zandbergen Eventcatering Luxembourg — event service",
+        "links": [
+          {
+            "label": "zandbergen.catering/food-concepts",
+            "href": "https://zandbergen.catering/food-concepts"
+          },
+          {
+            "label": "zandbergen.catering/domaines-vinsmoselle",
+            "href": "https://zandbergen.catering/domaines-vinsmoselle"
+          }
+        ]
+      },
+      "vinsmoselle": {
+        "title": "Domaine Vinsmoselle Luxembourg",
+        "description": "Collaboration on gastronomic events linked to a major Luxembourg wine reference. Ideal for wine events, corporate receptions, premium networking, private celebrations and gastronomy & wine experiences.",
+        "imageAlt": "Domaine Vinsmoselle Luxembourg — vineyard at sunset"
+      },
+      "chateau": {
+        "title": "Château du Pont d'Oye",
+        "subtitle": "Belgium",
+        "description": "Premium venue for weddings, private celebrations and exclusive events in Belgium. An elegant setting for hospitality, catering, decoration and high-end gastronomic experiences.",
+        "imageAlt": "Château du Pont d'Oye — reception hall in Belgium"
+      },
+      "mikel": {
+        "label": "04 — External culinary collaboration",
+        "title": "Chef Mikel Quesada",
+        "subtitle": "Founder of Essence Culinaire by Mikel Quesada",
+        "description": "Chef Mikel Quesada collaborates externally with Reliz through Essence Culinaire by Mikel Quesada — Training & Consulting. This collaboration brings recognised expertise in training, gastronomic consulting and operational excellence to projects carried by the brand.",
+        "services": [
+          "Professional kitchen team training",
+          "Gastronomic consulting",
+          "Culinary event organisation",
+          "Operational optimisation for caterers",
+          "Food & beverage concept development",
+          "Quality standards improvement"
+        ],
+        "disclaimer": "Mikel Quesada is not an owner of Reliz. He collaborates externally with the company through Essence Culinaire by Mikel Quesada."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your next experience.",
+    "name": "Name",
+    "namePlaceholder": "Your name…",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Describe your project or idea…",
+    "submit": "Send",
+    "submitting": "Sending…",
+    "success": "Your message has been sent. We will get back to you very soon.",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "tagline": "Hospitality + Events",
+    "services": "Hospitality • Culinary • Event Design • Street Food • Cocktails • Premium Events",
+    "groupTitle": "Reliz Group",
+    "ledBy": "Led by {name}",
+    "founderName": "Elize Rapisarda",
+    "mikelCollaboration": "External culinary collaboration with Chef Mikel Quesada / Essence Culinaire",
+    "regions": "Luxembourg • Belgium • Greater Region",
+    "contactTitle": "Contact",
+    "email": "reliz.rapisarda@gmail.com",
+    "phone": "+33 7 80 51 46 93",
+    "copyright": "© {year} RELIZ Group. All rights reserved."
+  },
+  "partners": {
+    "zandbergen": {
+      "name": "Zandbergen Event Catering",
+      "url": "https://www.zandbergen.lu"
+    },
+    "festin": {
+      "name": "Festin",
+      "url": "https://www.festin.lu"
+    }
+  }
+}
