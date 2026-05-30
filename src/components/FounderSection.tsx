@@ -23,7 +23,7 @@ export function FounderSection({
     <SplitImageLayout
       imageSrc="/images/founder.png"
       imageAlt={imageAlt}
-      imageClassName="object-cover object-top"
+      imageClassName="object-cover object-center"
     >
       <div className="gold-line mb-8" />
       <h2 className="font-display text-3xl font-light text-white md:text-4xl">
