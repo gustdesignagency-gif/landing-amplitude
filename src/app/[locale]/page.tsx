@@ -5,7 +5,7 @@ import { FadeIn } from "@/components/FadeIn";
 import { GoalSection } from "@/components/GoalSection";
 import { FounderSection } from "@/components/FounderSection";
 import { HeroSocialProof } from "@/components/HeroSocialProof";
-import { HeroBackground } from "@/components/HeroBackground";
+import { HeroVideo } from "@/components/HeroVideo";
 import { HomeHeroParallax } from "@/components/HomeHeroParallax";
 import { Section, sectionSpacing } from "@/components/Section";
 
@@ -21,7 +21,7 @@ export default async function HomePage({
 
   const hero = (
     <section className="relative flex h-full items-center justify-center overflow-hidden rounded-[24px]">
-      <HeroBackground />
+      <HeroVideo />
       <div
         className="pointer-events-none absolute inset-0 bg-black/55"
         aria-hidden

@@ -3,8 +3,6 @@
 import { useEffect, useRef } from "react";
 
 const VIDEO_SRC = "/videos/hero-catering.mp4";
-const POSTER_SRC =
-  "https://assets.mixkit.co/videos/4672/4672-thumb-720-0.jpg";
 
 export function HeroVideo() {
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -23,7 +21,7 @@ export function HeroVideo() {
     }
 
     video.play().catch(() => {
-      // Autoplay blocked — poster remains visible
+      // Autoplay blocked by browser
     });
   }, []);
 
@@ -36,7 +34,6 @@ export function HeroVideo() {
       loop
       playsInline
       preload="auto"
-      poster={POSTER_SRC}
       aria-hidden
     >
       <source src={VIDEO_SRC} type="video/mp4" />
